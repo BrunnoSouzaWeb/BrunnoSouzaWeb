@@ -1,5 +1,5 @@
-# 👋 Hey! Eu sou o Brunno  
-### Dev com longa estrada em sistemas corporativos e agora mergulhando no desenvolvimento web moderno.
+# 👋 Hey! Eu sou o Brunno Souza  
+### Profissional de TI com longa estrada em sistemas corporativos e agora mergulhando no desenvolvimento web moderno.
 
 Passei mais de 30 anos a trabalhar com sistemas corporativos e de missão crítica — como folha de pagamento e controle de estoque. Nesse tempo todo, lidei com performance, lógica, confiabilidade e muitos desafios que me ensinaram a pensar de forma estruturada e resolver problemas com calma.
 
@@ -32,8 +32,9 @@ Atualmente vivo na **Covilhã, Portugal**, e estou aberto a oportunidades remota
 
 ---
 
-## 📫 Vamos conversar?
-**LinkedIn:** https://www.linkedin.com/in/brunno-souza  
+## 📫 Vamos conversar? 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-souza)
+
 
 
 <!--
