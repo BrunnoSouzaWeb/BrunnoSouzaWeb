@@ -1,13 +1,13 @@
-# 👋 Hey! Eu sou o Brunno Souza  
-### Profissional de TI com longa estrada em sistemas corporativos e agora mergulhando no desenvolvimento web moderno.
+# 👋 Hey! I am Brunno Souza  
+### IT professional with a long background in enterprise systems and now focused on modern web development.
 
-Passei mais de 30 anos a trabalhar com sistemas corporativos e de missão crítica — como folha de pagamento e controle de estoque. Nesse tempo todo, lidei com performance, lógica, confiabilidade e muitos desafios que me ensinaram a pensar de forma estruturada e resolver problemas com calma.
+For more than 30 years, I worked with enterprise and mission-critical systems, including payroll and inventory management solutions. Throughout this journey, I developed strong skills in performance optimization, business logic, reliability, and problem-solving, learning how to approach complex challenges with a structured and analytical mindset.
 
-Recentemente, entrei no desenvolvimento web moderno. Concluí o bootcamp intensivo da TripleTen Brasil (720h) e adquiri experiência prática com **JavaScript, React, Node.js, Express e MongoDB**, construindo APIs, aplicações web e projetos full stack.
+Recently, I transitioned into modern web development. I successfully completed TripleTen Brazil's intensive Full Stack Software Engineering Bootcamp (720 hours), gaining hands-on experience with **JavaScript, React, Node.js, Express e MongoDB** while building APIs, web applications, and full-stack projects.
 
-Aqui no GitHub você vai encontrar exatamente essa fase da minha jornada: projetos modernos, organizados e focados em boas práticas — mas sempre carregando a experiência de quem já viveu muita coisa no mundo da tecnologia.
+This GitHub profile reflects this stage of my professional journey: modern projects, well-organized code, and a strong commitment to best practices, combined with the experience of someone who has spent decades working in technology.
 
-Atualmente vivo na **Covilhã, Portugal**, e estou aberto a oportunidades remotas na Europa e EUA.
+I am currently based in **Covilhã, Portugal**, and open to remote opportunities across Europe and the United States.
 
 ---
 
@@ -23,17 +23,18 @@ Atualmente vivo na **Covilhã, Portugal**, e estou aberto a oportunidades remota
 
 ---
 
-## 📌 Projetos em destaque
-- API REST completa com Node.js, Express e MongoDB  
-- SPA em React  
-- Sistema de autenticação com JWT  
-- Servidor Express modular  
-- Websites responsivos em HTML/CSS/JS  
+## 📌 Featured Projects
+* Designed and developed full RESTful APIs using Node.js, Express, and MongoDB
+* Built modern Single-Page Applications (SPAs) with React
+* Implemented secure JWT-based authentication and authorization
+* Developed scalable and modular Express server architectures
+* Created responsive and mobile-friendly websites using HTML, CSS, and JavaScript
+  
 
 ---
 
-## 📫 Vamos conversar? 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-souza)
+## 📫 Let's Connect
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-souza)
 
 
 
